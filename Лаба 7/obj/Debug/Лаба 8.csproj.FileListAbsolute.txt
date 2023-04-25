@@ -1,0 +1,2 @@
+C:\Users\STAR\source\repos\Лаба 8\obj\Debug\Лаба 8.csproj.AssemblyReference.cache
+C:\Users\STAR\source\repos\Лаба 8\obj\Debug\Лаба 8.csproj.CoreCompileInputs.cache
