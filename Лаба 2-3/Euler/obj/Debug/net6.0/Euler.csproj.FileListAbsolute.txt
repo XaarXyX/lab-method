@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\source\repos\Euler\Euler\bin\Debug\net6.0\Euler.exe
+C:\Users\ThinkPad\source\repos\Euler\Euler\bin\Debug\net6.0\Euler.deps.json
+C:\Users\ThinkPad\source\repos\Euler\Euler\bin\Debug\net6.0\Euler.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\Euler\Euler\bin\Debug\net6.0\Euler.dll
+C:\Users\ThinkPad\source\repos\Euler\Euler\bin\Debug\net6.0\Euler.pdb
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.dll
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\refint\Euler.dll
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.pdb
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\Euler.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\Euler\Euler\obj\Debug\net6.0\ref\Euler.dll
